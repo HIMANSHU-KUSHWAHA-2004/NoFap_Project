@@ -40,4 +40,11 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
+  <script>
+  // Redirect to index.html on 404s (for React Router)
+  if (location.pathname !== "/" && !location.pathname.includes(".") && location.hostname.includes("github.io")) {
+    location.replace(location.origin + "/NoFap_Project/");
+  }
+</script>
+
 </html>
