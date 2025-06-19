@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NoFap_Project/static/css/main.64f8e45f.css",
+    "main.js": "/NoFap_Project/static/js/main.2c07d4ed.js",
+    "static/js/453.4acee641.chunk.js": "/NoFap_Project/static/js/453.4acee641.chunk.js",
+    "index.html": "/NoFap_Project/index.html",
+    "main.64f8e45f.css.map": "/NoFap_Project/static/css/main.64f8e45f.css.map",
+    "main.2c07d4ed.js.map": "/NoFap_Project/static/js/main.2c07d4ed.js.map",
+    "453.4acee641.chunk.js.map": "/NoFap_Project/static/js/453.4acee641.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f8e45f.css",
+    "static/js/main.2c07d4ed.js"
+  ]
+}
